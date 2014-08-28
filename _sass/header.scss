@@ -1,0 +1,26 @@
+#header {
+  pre {
+    background: none;
+    color: #fff;
+    border: none;
+  }
+
+  nav {
+    border-top: dashed 1px #fff;
+    padding-top: 15px;
+
+    ul {
+      li {
+        a {
+          color: #fff;
+          background: none;
+        }
+
+        &.active {
+          border: dashed 1px #fff;
+          border-radius: 5px;
+        }
+      }
+    }
+  }
+}

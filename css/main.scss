@@ -1,0 +1,19 @@
+---
+---
+@import 'bootstrap';
+@import 'syntax';
+@import 'header';
+
+body {
+  background: #000;
+  color: #fff;
+}
+
+pre {
+  border: none;
+}
+
+#main {
+  padding-top: 20px;
+}
+
