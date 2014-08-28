@@ -32,7 +32,7 @@ As you guessed:
 end
 {% endhighlight %}
 
-This is really neat stuff, rails uses it in activesupports +lazy_load_hooks+ module:
+This is really neat stuff, rails uses it in activesupports *lazy_load_hooks* module:
 
 {% highlight ruby %}
 def self.on_load(name, options = {}, &block)
