@@ -3,6 +3,19 @@
     background: none;
     color: #fff;
     border: none;
+    font-size: 4px;
+
+    @media (min-width: $screen-sm-min) {
+      font-size: 7px;
+    }
+
+    @media (min-width: $screen-md-min) {
+      font-size: 10px;
+    }
+
+    @media (min-width: $screen-lg-min) {
+      font-size: 13px;
+    }
   }
 
   nav {
