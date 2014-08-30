@@ -1,7 +1,6 @@
 # Site settings
 title: Talking boy, talking ruby
 description: A blog about rails and ruby and the magic behind them.
-baseurl: http://talkingboy.com
 permalink: pretty
 
 # Sass support
