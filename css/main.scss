@@ -7,7 +7,15 @@
 
 body {
   background: #000;
-  color: #fff;
+  color: #ccc;
+}
+
+p {
+  font-size: 16px;
+
+  .red {
+    color: #CA002A;
+  }
 }
 
 pre {
@@ -16,5 +24,9 @@ pre {
 
 #main {
   padding-top: 20px;
+}
+
+ul.posts li {
+  margin: 5px 0px;
 }
 
